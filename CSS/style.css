@@ -11,3 +11,9 @@ p{
     border: 2px solid #ffffff;
     background-color: #df3f3f;;
 }
+
+*{
+    background-color: #62203d;
+    margin: 0;
+    padding: 0;
+}
