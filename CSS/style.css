@@ -1,0 +1,13 @@
+p{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.bin{
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    background-color: #df3f3f;;
+}
